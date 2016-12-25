@@ -99,3 +99,9 @@ all.config
 
 # fetched Android config fragments
 android/configs/android-*.cfg
+
+#
+# Kernel script generated files
+#
+KERNEL_OUT
+kernel_log.txt
